@@ -5,6 +5,11 @@
 ##### Header 5
 ###### Header 6??
 
+- [X] Step 1
+- [X] Step 2
+- [X] Step 3
+- [ ] Step 4
+
 ```
 import numpy as np
 ```
